@@ -1,0 +1,126 @@
+body {
+    margin: 0;
+  }
+  header {
+    background-color: #ffffff;
+    padding:8px;
+  }
+  header ul {
+    float: right;
+    color: rgb(0, 0, 0);
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+  }
+  header li {
+    display: inline-block;
+    padding: 0px 30px;
+  }
+  header p {
+    display: inline-block;
+  }
+  
+  header img {
+    width: 40px;
+    height: 40px;
+  }
+  .heading {
+    text-align: center;
+    padding: 15px 5px;
+    font-size: 30px;
+  }
+
+  .heroImg {
+    background-color: #ffffff;
+    padding: 0px 0px;
+    margin-bottom: 300px;
+  }
+
+.heroBanner img {
+    height: 250px;
+    opacity: 70%;
+}
+
+  .content {
+    max-width:400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #FFFFFF;
+    text-align: center;
+  }
+
+  .content h1{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+}
+
+.content h2{
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-size: 100px;
+}
+
+.content p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+section button {
+    padding: 15px;
+    background-color: #2081f3;
+    color: white;
+    font-size: 10px;
+    border-radius: 4px;
+  }
+  footer {
+    background-color: #ffffff;
+    padding: 5px;
+    color: white;
+  }
+  footer ul {
+    list-style: none;
+    padding-left: 5px;
+  }
+
+  footer ul img {
+    align-items:baseline;
+    height: 30px;
+    width: 390px;
+  }
+
+
+  footer li {
+    display: inline-block;
+    padding: 0px 7px;
+    float: right;
+  }
+
+  footer li img {
+    height: 30px;
+    width: 130px;
+  }
+
+  footer p {
+    text-align: center;
+    color: black;
+    font-family: "Roboto", sans-serif;
+    font-weight: lighter;
+    font-size: 10px;
+  }
+  
